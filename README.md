@@ -1,3 +1,5 @@
+By: Marcelo Henry Lemos and Pedro Nascimento Costa
+
 # Gun Violence in the US - A Data Science Project
 
 A Data Science learning project focusing on gun violence in the United States.
