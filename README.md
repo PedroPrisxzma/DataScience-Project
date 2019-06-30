@@ -1,4 +1,4 @@
-By: Marcelo Henry Lemos and Pedro Nascimento Costa
+By: Marcelo Luiz Harry Diniz Lemos and Pedro Nascimento Costa
 
 # Gun Violence in the US - A Data Science Project
 
